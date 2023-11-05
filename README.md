@@ -4,15 +4,15 @@ The main goal of this project is to perform extensive exploratory data analysis 
 It involves classical machine learning tasks tested with different models and the deployment of the best model.
 
 # Tools Used:
-. Python Programming Language
+* Python Programming Language
 
-. Libraries : Numpy, Pandas, Scikit-learn, Seaborn
+* Libraries : Numpy, Pandas, Scikit-learn, Seaborn
 
-. IDE: Pycharm and Jupyter Notebook
+* IDE: Pycharm and Jupyter Notebook
 
-. Dashboard: Power BI
+* Dashboard: Power BI
 
 # Requirements:
-. Python installed in system
+* Python installed in system
 
-. Scikit-learn, Seaborn
+* Scikit-learn, Seaborn
