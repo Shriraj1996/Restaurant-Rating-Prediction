@@ -5,10 +5,14 @@ It involves classical machine learning tasks tested with different models and th
 
 # Tools Used:
 . Python Programming Language
+
 . Libraries : Numpy, Pandas, Scikit-learn, Seaborn
+
 . IDE: Pycharm and Jupyter Notebook
+
 . Dashboard: Power BI
 
 # Requirements:
 . Python installed in system
+
 . Scikit-learn, Seaborn
